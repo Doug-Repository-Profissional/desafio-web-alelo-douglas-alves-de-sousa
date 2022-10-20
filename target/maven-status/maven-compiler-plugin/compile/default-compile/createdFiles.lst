@@ -1,0 +1,5 @@
+br\com\desafio\alelo\core\Propriedades.class
+br\com\desafio\alelo\core\DSL.class
+br\com\desafio\alelo\core\Propriedades$Browser.class
+br\com\desafio\alelo\business\correiosSteps.class
+runner\RunnerTeste.class
